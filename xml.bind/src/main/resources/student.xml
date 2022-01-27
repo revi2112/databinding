@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student>
+	<id>1</id>
+	<firstName>bhojanapalli</firstName>
+	<lastName>Revathi</lastName>
+	<email>abc@gmail.com</email>
+	<address>
+		<city>Vijayawada</city>
+		<country>India</country>
+		<state>Andhra Pradesh</state>
+		<zipcode>522503</zipcode>
+	</address>
+</student>
